@@ -1,2 +1,4 @@
 # primeiroano2023
 Colégio Estadual Cívico Militar Presidente Vargas - Bela Vista do Paraíso
+
+## Meu nome é Clara e estudo no colégio CCM, de BVP - STA MARGARIDA. Gosto de viajar para vários lugares, sou quieta, adoro açaí, não gosto de pessoas que se acham melhor que todo mundo, tenha amigos, gosto de músicas internacionais e pagode, etc. Sou uma pessoa impaciente, sou bipolar, fico brava com qualquer coisa, sou enjoada para algumas coisas, dependendo da situação, eu não ligo para o que está acontecendo, sou observadora, ansiosa, muito desconfiada, não confio em muitas pessoas, duvido da maioria das coisas que algumas pessoas dizem, as vezes as pessoas tem que expicar várias vezes até eu entender o que ela está dizendo, sou apressada, me estresso quando tenho que esperar, fico brava quando colocam a culpa em mim sem eu ter feito nada, etc. Sou uma pessoa confiável, me sinto bonita ás vezes, gosto de pessoas tranquilas, etc.
