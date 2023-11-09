@@ -16,8 +16,8 @@ body {
 
     
 .logo {
-    width: 200xp;
-    height: 200xp;
+    width: 200px;
+    height: 200px;
     margin: 2px; /*insere um espaçamento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
     border: 0.2rem solid #677b3e;
