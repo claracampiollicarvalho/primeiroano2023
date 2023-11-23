@@ -2,6 +2,9 @@ body {
     font-family: sans-serif;
     background-image: linear-gradient#FFFFFF);
 }
+
+header {
+    background-color: #b7bcb7;
     
     h1{
     color:blue;
