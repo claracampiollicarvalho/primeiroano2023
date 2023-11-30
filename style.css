@@ -41,5 +41,12 @@ header {
     border-radius: 24px;
 } 
 
+.lista{
+    font-size: 20px;
+    color: aqua;
+    list-style: none;
+}
+
+
 
     
