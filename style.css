@@ -9,6 +9,10 @@ header {
     padding: 20px;
 }
 
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
+}
 
     h1{
     color:rgb(177, 68, 18);
