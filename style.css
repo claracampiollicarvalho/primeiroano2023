@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #dadada;
+    background-color: rgb(238, 85, 174);
     border-bottom: 5px solid purple;
     padding: 20px;
 }
